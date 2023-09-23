@@ -248,7 +248,7 @@ async def start(client, message):
         #await x.delete()
         await k.reply_photo(
             photo=random.choice(DELETE_PICS),
-            caption="<b>✏️ ʏᴏᴜʀ ᴍᴇꜱꜱᴀɢᴇ ɪꜱ ꜱᴜᴄᴄᴇꜱꜱғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ!!! 🗑️\n\n💥 ᴩᴏᴡᴇʀᴇᴅ ʙʏ - <a href=https://telegram.me/OMGxMovies>Oᴍɢ x Mᴏᴠɪᴇs</a></b>",
+            caption="<b>✏️ ʏᴏᴜʀ ᴍᴇꜱꜱᴀɢᴇ ɪꜱ ꜱᴜᴄᴄᴇꜱꜱғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ!!! 🗑️</b>",
             parse_mode=enums.ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
                 [[
@@ -290,7 +290,7 @@ async def start(client, message):
             #del k, x
             await k.reply_photo(
             photo=random.choice(DELETE_PICS),
-            caption="<b>✏️ ʏᴏᴜʀ ᴍᴇꜱꜱᴀɢᴇ ɪꜱ ꜱᴜᴄᴄᴇꜱꜱғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ!!! 🗑️\n\n💥 ᴩᴏᴡᴇʀᴇᴅ ʙʏ - <a href=https://telegram.me/OMGxMovies>Oᴍɢ x Mᴏᴠɪᴇs</a></b>",
+            caption="<b>✏️ ʏᴏᴜʀ ᴍᴇꜱꜱᴀɢᴇ ɪꜱ ꜱᴜᴄᴄᴇꜱꜱғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ!!! 🗑️</b>",
             parse_mode=enums.ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
                 [[
