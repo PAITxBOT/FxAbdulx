@@ -27,7 +27,7 @@ class script(object):
     
     ABOUT_TXT = """<b>
 🤖 ᴍʏ ɴᴀᴍᴇ : {}
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : ʜᴀʀɪ
+👨‍💻 ᴏᴡɴᴇʀ : ᴀв∂υℓ ᠰ
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ᴠᴘs
@@ -237,61 +237,23 @@ class script(object):
 » ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ.
 » ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ.</b>"""
 
-    SUPPORT_TXT = """<b>🥀 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴍɢ x ᴍᴏᴠɪᴇs ✨
+    SUPPORT_TXT = """<b>🎯✨ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sɪᴠᴇʀᴏᴢ ʟɪɴᴋᴢᴢ ❣
 
-⚡️🔖🍬ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟꜱ 🦋✨🌿
+⚡️🍬ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟꜱ 🦋✨
 
 
-✯ <a href=https://t.me/OMGxMovies>ᴏᴍɢ x ᴍᴏᴠɪᴇs-[ᴍᴀɪɴ]</a>
+<a href=https://t.me/+x2qlfSKlbu4yYWJl>🔰✥ ▷ ʜᴏʟʟʏᴡᴏᴏᴅ ᴍᴏᴠɪᴇꜱ ◁</a>
 
-✯ <a href=https://t.me/OMGxLinks>ᴏᴍɢ x ʟɪɴᴋs</a>
+<a href=https://t.me/+nKmSHfXM9182OTg9>🔰✥ ▷ ᴅᴜʙʙᴇᴅ ᴍᴏᴠɪᴇꜱ ◁</a>
 
-✯ <a href=https://t.me/+muH4XXiXCcw4OTU1>ᴏᴍɢ x ᴍᴏᴠɪᴇs-[ғɪʟᴇ ᴄʜᴀɴɴᴇʟ]</a>
+<a href=https://t.me/+ybrdZmC6FLQxOTM1>🔰✥ ▷ ʜᴏʀʀᴏʀ ᴍᴏᴠɪᴇꜱ ◁</a>
 
-✯ <a href=https://t.me/+Q6n78w-51mcwZjhl>ᴛᴀᴍɪʟ ᴡᴇʙ-sᴇʀɪᴇs</a>
+<a href=https://t.me/Siveroz_Anime>🔰✥ ▷ ᴀɴɪᴍᴇ ᴛᴀᴍɪʟ ᴅᴜʙ ◁</a>
 
-✯ <a href=https://t.me/+clfkYSrhQ7NhZmM1>ᴍᴀʀᴠᴇʟ ᴄᴏʟʟᴇᴄᴛɪᴏɴ</a>
+🚀 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ - @Siveroz_Linkzz
 
-✯ <a href=https://t.me/+lhquQw8GtPU2OWI1>ᴅᴄ ᴄᴏʟʟᴇᴄᴛɪᴏɴ</a>
-
-✯ <a href=https://t.me/NarutoTamil_HD>ɴᴀʀᴜᴛᴏ ᴛᴀᴍɪʟ</a>
-
-✯ <a href=https://t.me/New_Movies_Hd_M>ᴛᴀᴍɪʟ 𝟦ᴋ & 𝟣𝟢𝟪𝟢Ꭾ ᴍᴏᴠɪᴇs</a>
-
+🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ :<a href=tg://settings>ᴛʜɪs ᴘᴇʀsᴏɴ 🙌</a></b>"""
     
-✯ <a href=https://t.me/OMGxMovies/467>ᴍᴏᴠɪᴇ ʀᴇ𝚀ᴜᴇꜱᴛ ɢʀᴏᴜᴩ</a>
-
-
-✯ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ :<a href=tg://settings>ᴛʜɪs ᴘᴇʀsᴏɴ</a></b>"""
-
-    EARN_TXT = """
-<b>──────「 <a href='https://t.me/Hs_Botz/22'>ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
-
-ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ғʀᴏᴍ ᴛʜɪs ʙᴏᴛ
-
-➥ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ ʙʏ ᴜsɪɴɢ ᴛʜɪꜱ ʙᴏᴛ.
-
-›› sᴛᴇᴘ 1 : ғɪʀsᴛ ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ᴀᴅᴅ ᴛʜɪs ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟᴇᴅɢᴇ.
-
-›› sᴛᴇᴘ 𝟸 : ʏᴏᴜ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ᴀɴʏ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ.
-
-›› sᴛᴇᴘ 𝟹 : ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴇʟᴏᴡ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
-
-➥ ᴛʜɪꜱ ʙᴏᴛ ɪs ꜰʀᴇᴇ ꜰᴏʀ ᴀʟʟ, ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ғᴏʀ ꜰʀᴇᴇ ᴏꜰ ᴄᴏꜱᴛ.</b>"""
-    
-    SHORTER_TXT = """<b>ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ᴏᴡɴ sʜᴏʀᴛɴᴇʀ
-
-➥ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ᴏᴡɴ sʜᴏʀᴛɴᴇʀ ᴛʜᴇɴ ᴊᴜsᴛ sᴇɴᴅ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴇᴛᴀɪʟs ɪɴ ᴄᴏʀʀᴇᴄᴛ ғᴏʀᴍᴀᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
-
-➥ ғᴏʀᴍᴀᴛ ↓↓↓
-/set_shortner - sʜᴏʀᴛɴᴇʀ sɪᴛᴇ , sʜᴏʀᴛɴᴇʀ ᴀᴘɪ
-
-
-➥ ᴇxᴀᴍᴘʟᴇ ↓↓↓ ᴀɴᴅ <a href='https://t.me/Hs_Botz/22'>sᴀᴍᴘʟᴇ ᴠɪᴅᴇᴏ</a>
-<code>/set_shortner urlshorten.in f100c72d39eb33e2654e99fb4e214a2ba109d1b7</code>
-
-⚠️ ɴᴏᴛᴇ : ʏᴏᴜ sʜᴏᴜʟᴅ ɴᴏᴛ ʙᴇ ᴀɴ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ. sᴇɴᴅ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ʙᴇɪɴɢ ᴀɴ ᴀɴᴏɴʏᴍᴜs ᴀᴅᴍɪɴ.</b>"""
-
     OWNER_TXT = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
@@ -299,31 +261,12 @@ class script(object):
 • ᴜꜱᴇʀɴᴀᴍᴇ : @hari_op
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ :<a href=https://t.me/Hari_OP>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
-    SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/TeamHMT_Bots/44> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
-
-Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
-
-Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
-
-sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
-
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://mplaylink.com/ref/106324576666323105902>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
-
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/TeamHMT_Bots/44> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
-
-➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
-
-Any Doubts or Not Connecting? Contact Me </b>
-"""
     CAPTION = """<b>
 📂 ғɪʟᴇ ɴᴀᴍᴇ : {file_name}
 
 📑 sɪᴢᴇ : {file_size}
 
-🥀 ᴊᴏɪɴ : <a href='https://t.me/OMGxLinks'>ᴏᴍɢ x ʟɪɴᴋs​</a>
-
-🎭 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/OMGxMovies'>ᴏᴍɢ x ᴍᴏᴠɪᴇs</a></b>"""
+🎭 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : @Siveroz_Linkzz</b>"""
 
     LOGO = """
 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈.......🥵"""
@@ -342,9 +285,7 @@ Any Doubts or Not Connecting? Contact Me </b>
 
 📂 <code>{}</code>
 
-🥀 ᴊᴏɪɴ : <a href='https://t.me/OMGxLinks'>ᴏᴍɢ x ʟɪɴᴋs​</a>
-
-🎭 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/OMGxMovies'>ᴏᴍɢ x ᴍᴏᴠɪᴇs</a></b>"""
+🎭 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : @Siveroz_Linkzz</b>"""
 
     MVE_NT_FND = """🔎 ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ...♻️"""
 
