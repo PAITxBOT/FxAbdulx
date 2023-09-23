@@ -15,7 +15,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '10261086'))
 API_HASH = environ.get('API_HASH', '9195dc0591fbdb22b5711bcd1f437dab')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6319930625:AAGs2mIczab1efdGqR0RXYNzBjmsNlawXEo")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6515031193:AAHk-xf0BZLNKgK9ab6qRHN8_7hJcLQCRh4")
 
 #Port
 PORT = environ.get("PORT", "8080")
@@ -23,17 +23,17 @@ PORT = environ.get("PORT", "8080")
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://graph.org/file/630fd5fbc59fe83cefc34.jpg https://graph.org/file/5ed6c28c61ea6212e91f9.jpg https://graph.org/file/489c6b8058709c52ee31c.jpg https://graph.org/file/2c30c1452c2c4bccc3046.jpg https://graph.org/file/4f4c6bfc6a016b11ddef4.jpg https://graph.org/file/daf2b545d8b9b732b71d7.jpg https://graph.org/file/b711a112dc78f0bcc2cad.jpg https://graph.org/file/0858959a66bb00a29fd95.jpg https://graph.org/file/8ca62e6ad091a7cf4d86d.jpg https://graph.org/file/08ed0cd0bc6ac0bc37f49.jpg https://graph.org/file/4dc11ffde60a857316abe.jpg https://graph.org/file/3bce5258bede563a9c559.jpg https://graph.org/file/6cb914abbb21a755b601c.jpg https://graph.org/file/58a6861cf47953a596573.jpg https://graph.org/file/f7d482b08d48c2dc8a30a.jpg https://graph.org/file/a949483ebc4c3fe89bdc0.jpg https://graph.org/file/7b13e39550b56b82bd9f7.jpg https://graph.org/file/1cbe46cd74e11c704bbe2.jpg https://telegra.ph/file/e9c7a37f2522a1f4e494d.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/f2e803a1bbdc3f3729784.jpg')).split()
 SETTINGS_PICS = (environ.get('SETTINGS_PICS', 'https://graph.org/file/73e4acd0a9f4425fd34be.jpg')).split()
-CHANNEL_PICS = (environ.get('CHANNEL_PICS', 'https://graph.org/file/30fc6ea74df988db9b417.jpg')).split()
+CHANNEL_PICS = (environ.get('CHANNEL_PICS', 'https://telegra.ph/file/8a0c09d6ba4f1097b19f4.jpg')).split()
 DELETE_PICS = (environ.get('DELETE_PICS', 'https://telegra.ph/file/f58fbfbf2774cc93f5e14.jpg')).split()
 SUPPORT_PICS = (environ.get('SUPPORT_PICS', 'https://graph.org/file/30fc6ea74df988db9b417.jpg')).split()
 RULES_PICS = (environ.get('RULES_PICS', 'https://graph.org/file/4752441b16362f2df8e27.jpg https://graph.org/file/e5445f406f428b47556fc.jpg')).split()
 
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1426588906').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001878854070').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1426588906 1498007933').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001844726042').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('AUTH_CHANNEL', '')
@@ -47,13 +47,13 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://omg:omg@cluster0.cub5z0e.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "omg")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://abdul:abdul@cluster0.zx3rrqx.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "abdul")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-MSG_LOG_CHANNEL = int(environ.get('MSG_LOG_CHANNEL', '-1001606248152'))
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001606248152'))
+MSG_LOG_CHANNEL = int(environ.get('MSG_LOG_CHANNEL', '-1001959246948'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001959246948'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '@Hs_Botz_Discussion')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), False)
@@ -72,9 +72,9 @@ PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), True)
 
 
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/OMGxMovies")
-FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1001606248152'))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/+SuuWzl_yiwllZDg1')
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/Siveroz_Linkzz")
+FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1001881460488'))
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/+VEFK_LuwT-piNDBl')
 
 
 LANGUAGES = ["malayalam", "tamil", "english", "hindi", "telugu", "kannada"]
@@ -93,16 +93,16 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
     
       # URL Shortener #
 
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'v2.kpslink.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'ec8ba7deff6128848def53bf2d4e69608443cf27')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tnshort.net')
+SHORTLINK_API = environ.get('SHORTLINK_API', '832ad5ffe369f8dbfcd785735cd76a2b53ee2c46')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', 'True'))
 P_TTI_SHOW_OFF = bool(environ.get('P_TTI_SHOW_OFF', 'True'))
 
      # Auto Delete For Group Message (Self Delete) #
-SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 100))
+SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 300))
 SELF_DELETE = environ.get('SELF_DELETE', True)
 if SELF_DELETE == "True":
     SELF_DELETE = True
 
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/linkdownlos/12')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_to_download_linkzz/3')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
