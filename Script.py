@@ -256,14 +256,13 @@ class script(object):
     
     OWNER_TXT = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
-<b> ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ 
-
-‣ ꜰᴜʟʟ ɴᴀᴍᴇ : Bʏɴғ ♔︎ αв∂υℓ ᠰ | 🇸🇻 |
-‣ ᴜꜱᴇʀɴᴀᴍᴇ : @Itz_me_xz
-‣ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ :<a href=https://t.me/Itz_me_xz>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+    
+• ꜰᴜʟʟ ɴᴀᴍᴇ :ʜᴀʀɪ ᠰ ᴛɢ
+• ᴜꜱᴇʀɴᴀᴍᴇ : @hari_op
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ :<a href=https://t.me/Hari_OP>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     CAPTION = """<b>
-📂 ғɪʟᴇ ɴᴀᴍᴇ : {file_name}
+📂 ғɪʟᴇ ɴᴀᴍᴇ : <code>{file_name}</code>
 
 📑 sɪᴢᴇ : {file_size}
 
