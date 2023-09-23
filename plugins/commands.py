@@ -243,7 +243,7 @@ async def start(client, message):
                 ]
             )
         )
-        await asyncio.sleep(13)
+        await asyncio.sleep(300)
         await k.delete()
         #await x.delete()
         await k.reply_photo(
@@ -256,7 +256,7 @@ async def start(client, message):
                 ]]
             )
         )
-        await asyncio.sleep(13)
+        await asyncio.sleep(300)
         await x.delete()
         return
         
@@ -284,7 +284,7 @@ async def start(client, message):
                     ]
                 )
             )
-            await asyncio.sleep(13)
+            await asyncio.sleep(300)
             await k.delete()
             #await x.delete()
             #del k, x
@@ -298,7 +298,7 @@ async def start(client, message):
                 ]]
             )
         )
-        await asyncio.sleep(13)
+        await asyncio.sleep(300)
         await x.delete()
         return
 
@@ -326,7 +326,7 @@ async def start(client, message):
                 InlineKeyboardButton("🔄 ᴄʟɪᴄᴋ ᴛᴏ ɢᴇᴛ ᴅᴇʟᴇᴛᴇ ғɪʟᴇ ᴀɢᴀɪɴ 🔄", callback_data=f'delfile#{file_id}')
             ]]
             hs = k = await msg.reply("<b>❗⚠️❗🚨 ɪᴍᴘᴏʀᴛᴀɴᴛ 🚨❗⚠️❗️\n\n🎭 ᴛʜɪꜱ ᴍᴏᴠɪᴇ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ ɪɴ <code>𝟷𝟶 ᴍɪɴꜱ</code>\n\n🔎 ᴅᴜᴇ ᴛᴏ ᴄᴏᴘʏʀɪɢʜᴛ ɪsꜱᴜᴇꜱ 🔎\n\n🥀 ᴘʟᴇᴀꜱᴇ ғᴏʀᴡᴀʀᴅ ᴛʜɪꜱ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ʏᴏᴜʀ Sᴀᴠᴇᴅ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀɴᴅ sᴛᴀʀᴛ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʜᴇʀᴇ  📝</b>",quote=True)
-            await asyncio.sleep(13)
+            await asyncio.sleep(600)
             await msg.delete()
             await hs.delete()
             del msg, hs
@@ -362,7 +362,7 @@ async def start(client, message):
         InlineKeyboardButton("🔄 ᴄʟɪᴄᴋ ᴛᴏ ɢᴇᴛ ᴅᴇʟᴇᴛᴇ ғɪʟᴇ ᴀɢᴀɪɴ 🔄", callback_data=f'delfile#{file_id}')
     ]]
     hs = k = await msg.reply("<b>❗⚠️❗🚨 ɪᴍᴘᴏʀᴛᴀɴᴛ 🚨❗⚠️❗️\n\n🎭 ᴛʜɪꜱ ᴍᴏᴠɪᴇ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ ɪɴ <code>𝟷𝟶 ᴍɪɴꜱ</code>\n\n🔎 ᴅᴜᴇ ᴛᴏ ᴄᴏᴘʏʀɪɢʜᴛ ɪsꜱᴜᴇꜱ 🔎\n\n🥀 ᴘʟᴇᴀꜱᴇ ғᴏʀᴡᴀʀᴅ ᴛʜɪꜱ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ʏᴏᴜʀ Sᴀᴠᴇᴅ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀɴᴅ sᴛᴀʀᴛ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʜᴇʀᴇ  📝</b>",quote=True)
-    await asyncio.sleep(13)
+    await asyncio.sleep(600)
     await msg.delete()
     await hs.delete()
     del msg, hs
