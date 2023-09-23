@@ -596,7 +596,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     protect_content=True if ident == "filep" else False,
                     reply_markup=InlineKeyboardMarkup(
                             [[
-                                InlineKeyboardButton("🎭 ᴏᴍɢ x ᴍᴏᴠɪᴇs 🎭", url=f"{MAIN_CHANNEL}")
+                                InlineKeyboardButton("🎭 sɪᴠᴇʀᴏᴢ ʟɪɴᴋᴢᴢ 🎭", url=f"{MAIN_CHANNEL}")
                             ]]))
                 mh8 = await query.message.reply(script.FILE_MSG.format(query.from_user.mention, title, size),
                 True,
