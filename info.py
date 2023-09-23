@@ -27,7 +27,7 @@ PICS = (environ.get('PICS', 'https://graph.org/file/f2e803a1bbdc3f3729784.jpg'))
 SETTINGS_PICS = (environ.get('SETTINGS_PICS', 'https://graph.org/file/73e4acd0a9f4425fd34be.jpg')).split()
 CHANNEL_PICS = (environ.get('CHANNEL_PICS', 'https://telegra.ph/file/8a0c09d6ba4f1097b19f4.jpg')).split()
 DELETE_PICS = (environ.get('DELETE_PICS', 'https://telegra.ph/file/f58fbfbf2774cc93f5e14.jpg')).split()
-SUPPORT_PICS = (environ.get('SUPPORT_PICS', 'https://graph.org/file/30fc6ea74df988db9b417.jpg')).split()
+SUPPORT_PICS = (environ.get('SUPPORT_PICS', 'https://telegra.ph/file/3bb6c7a38cc3b353b0f1b.jpg')).split()
 RULES_PICS = (environ.get('RULES_PICS', 'https://graph.org/file/4752441b16362f2df8e27.jpg https://graph.org/file/e5445f406f428b47556fc.jpg')).split()
 
 
